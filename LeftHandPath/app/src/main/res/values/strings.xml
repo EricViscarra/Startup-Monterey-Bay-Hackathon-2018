@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/tools" android:ignore="NamespaceTypo">
+    <string name="app_name">LeftHandPath</string>
+
+    <string android:name="com.twitter.sdk.android.CONSUMER_KEY">1wW8SzeYEG8fHbdM5cwaDF1Wg</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_SECRET">UuQeYjUc0T22glT6eSVAKFflvDy5ujLjZE7ox1LtJKxV9wWhyZ</string>
+
+    <string name="start">Start Service</string>
+
+
+</resources>
